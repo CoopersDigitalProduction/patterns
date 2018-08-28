@@ -11,4 +11,4 @@ Here goes our reference table with each kind of commit and it's emojis.
 | ✨ Improvements | 📖 Documentation | 🚚 Build files |
 | 🐛 Bug Fixes |  | 🚨 Tests |
 
-Reference: [Zurb Foundation](https://github.com/zurb/foundation-sites/releases)
+Reference: [Zurb Foundation release document](https://github.com/zurb/foundation-sites/releases)
