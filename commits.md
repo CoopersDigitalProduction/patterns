@@ -6,9 +6,9 @@ Here goes our reference table with each kind of commit and it's emojis:
 
 | Code changes  | Cleaning  | Maintenance |
 | ------------- | --------- | ----------- |
-| 💥 Breaking changes | 🛠️ Refactoring | 💻 Tools |
-| 🚀 Features | 💎 Linting | 📦 Dependencies |
-| ✨ Improvements | 📖 Documentation | 🚚 Build files |
-| 🐛 Bug Fixes |  | 🚨 Tests |
+| 💥 breaking changes | 🛠️ refactoring | 💻 tools |
+| 🚀 features | 💎 linting | 📦 dependencies |
+| ✨ improvements | 📖 documentation | 🚚 build files |
+| 🐛 bug fixes |  | 🚨 tests |
 
 Reference: [Zurb Foundation release document](https://github.com/zurb/foundation-sites/releases)
